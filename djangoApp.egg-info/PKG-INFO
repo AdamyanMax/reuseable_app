@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: djangoApp
+Version: 0.1
+Summary: A Django App hashed with Cython, which has a 'create_app()' function in the 'djangoApp.wsgi'
+Author: Max Adamyan
+Author-email: maximadamyan2@gmail.com

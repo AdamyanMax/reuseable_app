@@ -1,0 +1,2 @@
+[wsgi_scripts]
+djangoApp = djangoApp.wsgi:create_app
