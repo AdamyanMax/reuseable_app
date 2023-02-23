@@ -5,7 +5,7 @@ setup(
     name='djangoApp',
     version='0.2',
     description="A Django App hashed with Cython, which has a 'create_app()' function in the 'djangoApp.wsgi'",
-    author='Max Adamyan',
+    author='Max',
     author_email='maximadamyan2@gmail.com',
     packages=find_packages(),
     install_requires=[

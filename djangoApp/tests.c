@@ -1511,9 +1511,7 @@ if (!__Pyx_RefNanny) {
   #endif
 
   /* "djangoApp/tests.py":1
- * # Create your tests here.             # <<<<<<<<<<<<<<
- * # TODO:
- * #  pypi-AgENdGVzdC5weXBpLm9yZwIkYjA0Y2IwMjktNGIzNi00M2Q1LTg5ZWYtYzM2NjM0MjQ1OWUyAAIqWzMsImQ4NzAwNjg4LWM5MDItNDU4Yi1hOGZlLTQyZDQxYzZhYzI2ZCJdAAAGIMCJqn2Ix5JnyNNsMlloCy6CUWKdT4_9jqP4glpj7Kst
+             # <<<<<<<<<<<<<<
  */
   __pyx_t_1 = __Pyx_PyDict_NewPresized(0); if (unlikely(!__pyx_t_1)) __PYX_ERR(0, 1, __pyx_L1_error)
   __Pyx_GOTREF(__pyx_t_1);
