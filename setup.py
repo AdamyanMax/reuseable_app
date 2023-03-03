@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='djangoApp',
-    version='0.2.3',
+    version='0.2.3.2',
     description="A Django App hashed with Cython, which has a 'create_app()' function in the 'djangoApp.wsgi'",
     author='Max',
     author_email='maximadamyan2@gmail.com',
